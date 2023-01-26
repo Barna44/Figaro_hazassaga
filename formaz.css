@@ -1,0 +1,72 @@
+body
+{
+    background-color: #FFCCAA;
+    font-size: 14px;
+    font-family: Tahoma;
+}
+
+a
+{
+    color: #A04000;
+}
+
+#voros
+{
+    float: left;
+    width: 150px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#cim
+{
+    color: #A04000;
+    display: block;
+}
+
+#elso
+{
+    font-weight: bold;
+    text-align: justify;
+}
+
+#figaro
+{
+    float: right;
+    width: 195px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#masodik
+{
+    text-align: justify;
+    padding-left: 25px;
+    padding-right: 230px;
+}
+
+#bold
+{
+    font-weight: bold;
+}
+
+#tabla
+{
+    width: 100%;
+    float: bottom;
+    text-align: center;
+}
+
+#kivetel
+{
+    text-align: left;
+}
+
+td
+{
+    width: 300px;
+}

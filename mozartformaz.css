@@ -1,0 +1,28 @@
+body
+{
+    background-color: #FFCCAA;
+    font-size: 2ch;
+    font-family: Tahoma;
+}
+
+a
+{
+    color: #A04000;
+}
+
+h1
+{
+    color: #A04000;
+}
+
+p
+{
+    text-align: justify;
+}
+
+img
+{
+    float: left;
+    width: 110px;
+    margin: 20px 5px;
+}
